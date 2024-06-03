@@ -192,6 +192,10 @@ header a {
   animation-delay: 1.8s !important;
 }
 
+.carousel .list .item .title {
+  text-transform: uppercase;
+}
+
 .carousel.next .list .item:nth-child(1) img {
   width: 150px;
   height: 220px;
