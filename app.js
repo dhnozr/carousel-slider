@@ -9,7 +9,7 @@ const time = document.querySelector('.time');
 thumbnail.appendChild(thumbnailItems[0]);
 
 let timeRunning = 2000;
-let timeAutoNext = 7000000;
+let timeAutoNext = 7000;
 let runTimeOut;
 
 let runNextAuto = setTimeout(() => {
